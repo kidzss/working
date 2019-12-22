@@ -1,0 +1,4 @@
+language: objective-c
+xcode_project: ResponderChain.xcodeproj
+xcode_scheme: ResponderChain
+xcode_sdk: iphonesimulator
